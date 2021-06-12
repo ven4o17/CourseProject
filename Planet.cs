@@ -30,9 +30,9 @@ namespace GalaxySearch
             {
                 return "mesoplanet";
             }
-            else if (this.Type == PlanetType.MiniNeptun)
+            else if (this.Type == PlanetType.MiniNeptune)
             {
-                return "mini-neptun";
+                return "mini-neptune";
             }
             else if (this.Type == PlanetType.Planetar)
             {
