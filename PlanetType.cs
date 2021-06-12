@@ -6,7 +6,7 @@ namespace GalaxySearch
         GiantPlanet = 1,
         IceGiant = 2,
         Mesoplanet = 3,
-        MiniNeptun = 4,
+        MiniNeptune = 4,
         Planetar = 5,
         SuperEarth = 6,
         SuperJupiter = 7,
